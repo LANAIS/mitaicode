@@ -1,66 +1,83 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🌟 Mitai Code
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+**Mitai Code** es un ecosistema educativo gamificado e inteligente pensado para niños y niñas de América Latina. Su objetivo es democratizar el acceso a la programación, el pensamiento computacional y el uso ético de la inteligencia artificial desde edades tempranas.
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 🚀 ¿Qué es Mitai Code?
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Una plataforma creada para despertar la creatividad, la lógica y la resolución de problemas en los más chicos, integrando:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+ 
+- 🧠 **Introducción al Prompt Engineering y pensamiento computacional**  
+- 🎮 **Gamificación con logros, desafíos, niveles y rankings**  
+- 👩‍🏫 **Perfiles personalizados para alumnos y docentes**  
+- 📊 **Paneles de analítica para seguimiento educativo**  
+- 🧠 **IA para personalizar la experiencia y retroalimentar al docente**
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## 🌍 ¿Por qué Mitai?
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+> "Mitai" significa "niño" en guaraní.  
+> Queremos empoderar a los niños de América Latina con herramientas que les permitan crear, aprender y liderar el futuro.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+---
 
-## Laravel Sponsors
+## 🔎 Características principales
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+| Característica | Descripción |
+|----------------|-------------|
+| 🎓 Enfoque pedagógico | Basado en el desarrollo del pensamiento lógico y creativo |
+| 👨‍🏫 Gestión docente | Seguimiento del aprendizaje, creación de recursos y sesiones |
+| 📈 Analítica inteligente | Métricas de desempeño, alertas y visualización de progreso |
+| 🧠 IA educativa | Recomendación de contenidos y personalización |
+| 🕹️ Juego y motivación | Ranking, logros, desafíos, niveles, avatares |
 
-### Premium Partners
+---
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+## 📊 Panel de Analítica
 
-## Contributing
+Porque *“lo que no se mide, no se puede mejorar”*. El panel permite:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- Visualizar el progreso de cada alumno o grupo
+- Detectar dificultades a tiempo
+- Tomar decisiones pedagógicas basadas en datos reales
+- Medir participación y engagement
 
-## Code of Conduct
+---
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## 🎯 Objetivos del proyecto
 
-## Security Vulnerabilities
+- Democratizar el acceso a tecnologías emergentes
+- Fomentar el interés por la ciencia y la programación
+- Promover una educación inclusiva e innovadora
+- Generar impacto real en las aulas latinoamericanas
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+---
 
-## License
+## 🤝 Colaboraciones
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Si sos docente, desarrollador/a, investigador/a o simplemente querés aportar, ¡estás invitado a sumarte!  
+**Contribuí, probá, difundí. El futuro lo construimos juntos.**
+
+---
+
+## 📬 Contacto
+
+- 🌐 Sitio web: [www.mitaicode.com](http://www.mitaicode.com)
+- 📧 Email: contacto@mitaicode.com
+- 🐦 Twitter: [@MitaiCode](https://twitter.com/MitaiCode) _(opcional)_
+
+---
+
+## ⚖️ Licencia
+
+Este proyecto está licenciado bajo la [MIT License](LICENSE).
+
+---
+
+> 💬 *“La tecnología no reemplaza al docente. Lo potencia.”*
+
+---
+
