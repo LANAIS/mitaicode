@@ -1,0 +1,6 @@
+<g id="base">
+  <!-- Cabeza redonda estilo semilla/planta -->
+  <ellipse cx="200" cy="200" rx="120" ry="140" fill="{{skin_color}}" stroke="#333" stroke-width="2" />
+  <!-- Detalles de la cara base -->
+  <path d="M200,250 C230,250 260,230 265,210" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round" opacity="0.5" />
+</g> 

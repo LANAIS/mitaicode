@@ -1,0 +1,14 @@
+<g id="outfit-pixel-classic">
+  <!-- Atuendo tipo semilla/planta pixelado -->
+  <rect x="140" y="280" width="120" height="40" fill="#4CAF50" stroke="#333" stroke-width="1" />
+  <rect x="130" y="290" width="10" height="30" fill="#4CAF50" stroke="#333" stroke-width="1" />
+  <rect x="260" y="290" width="10" height="30" fill="#4CAF50" stroke="#333" stroke-width="1" />
+  
+  <!-- Detalles tipo hojas pixeladas -->
+  <rect x="120" y="320" width="30" height="30" fill="#81C784" stroke="#333" stroke-width="1" />
+  <rect x="250" y="320" width="30" height="30" fill="#81C784" stroke="#333" stroke-width="1" />
+  
+  <!-- Tallo pixelado -->
+  <rect x="195" y="320" width="10" height="40" fill="#2E7D32" stroke="#333" stroke-width="1" />
+  <rect x="185" y="350" width="30" height="10" fill="#2E7D32" stroke="#333" stroke-width="1" />
+</g> 

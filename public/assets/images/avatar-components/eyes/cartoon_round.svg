@@ -1,0 +1,15 @@
+<g id="eyes-round">
+  <!-- Ojo izquierdo -->
+  <circle cx="160" cy="180" r="15" fill="white" stroke="#333" stroke-width="2" />
+  <circle cx="160" cy="180" r="6" fill="{{eye_color}}" stroke="#333" stroke-width="1" />
+  <circle cx="158" cy="178" r="2" fill="white" />
+  
+  <!-- Ojo derecho -->
+  <circle cx="240" cy="180" r="15" fill="white" stroke="#333" stroke-width="2" />
+  <circle cx="240" cy="180" r="6" fill="{{eye_color}}" stroke="#333" stroke-width="1" />
+  <circle cx="238" cy="178" r="2" fill="white" />
+  
+  <!-- Cejas -->
+  <path d="M145,160 C155,152 165,150 175,155" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round" />
+  <path d="M225,155 C235,150 245,152 255,160" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round" />
+</g> 

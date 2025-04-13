@@ -1,0 +1,269 @@
+/**
+ * MitaiCode - Estilos para Hackathones
+ */
+
+/* Estilos para tarjetas de hackathones */
+.hackathon-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 1px solid #e3e6f0;
+}
+
+.hackathon-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.hackathon-card .card-header {
+    background-color: #f8f9fc;
+    border-bottom: 1px solid #e3e6f0;
+}
+
+.hackathon-card .progress {
+    height: 8px;
+    background-color: #eaecf4;
+}
+
+.hackathon-card .progress-bar-striped {
+    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+    background-size: 1rem 1rem;
+}
+
+.hackathon-card .progress-bar-animated {
+    animation: progress-bar-stripes 1s linear infinite;
+}
+
+.hackathon-info {
+    color: #5a5c69;
+    font-size: 0.9rem;
+}
+
+.hackathon-info div {
+    margin-bottom: 0.5rem;
+}
+
+/* Estilos para miembros del equipo */
+.list-group-item {
+    transition: background-color 0.2s ease;
+}
+
+.list-group-item:hover {
+    background-color: #f8f9fc;
+}
+
+.list-group-item:active {
+    transform: scale(0.99);
+}
+
+.list-group-item .btn {
+    transition: all 0.2s ease;
+}
+
+.list-group-item .btn:hover {
+    transform: translateY(-2px);
+}
+
+/* Estilos para equipo de hackathon */
+.objectives-card .card, 
+.deliverables-card .card {
+    border-left: 4px solid #4e73df;
+    transition: transform 0.3s ease;
+}
+
+.objectives-card .card:hover, 
+.deliverables-card .card:hover {
+    transform: translateX(5px);
+}
+
+.objectives-card .card-header,
+.deliverables-card .card-header {
+    background-color: #f8f9fc;
+    font-weight: 500;
+}
+
+.deliverables-card .card {
+    border-left-color: #1cc88a;
+}
+
+/* Estilos para formularios de hackathones */
+#teamJoinModal .modal-content {
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+}
+
+#teamJoinModal .modal-header {
+    background-color: #4e73df;
+    color: white;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
+
+#teamJoinModal .modal-footer {
+    border-top: 1px solid #e3e6f0;
+    padding: 1rem;
+}
+
+#teamJoinModal .form-label {
+    font-weight: 500;
+    color: #5a5c69;
+}
+
+#teamJoinModal .form-control:focus {
+    border-color: #4e73df;
+    box-shadow: 0 0 0 0.2rem rgba(78, 115, 223, 0.25);
+}
+
+/* Estilos para compañeros invitados */
+.invited-teammate {
+    transition: all 0.2s ease;
+}
+
+.invited-teammate:hover {
+    background-color: #f8f9fc;
+}
+
+.invited-teammate .btn-outline-danger {
+    opacity: 0.7;
+    transition: all 0.2s ease;
+}
+
+.invited-teammate:hover .btn-outline-danger {
+    opacity: 1;
+}
+
+/* Animaciones para botones */
+.btn {
+    transition: all 0.3s ease;
+}
+
+.btn:hover:not(:disabled) {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary:hover {
+    background-color: #4262c5;
+}
+
+.btn-success:hover {
+    background-color: #17a673;
+}
+
+/* Estilos para certificados */
+.certificate {
+    position: relative;
+    background: #fff;
+    border: 15px solid #4e73df;
+    padding: 30px;
+    width: 100%;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #333;
+    overflow: hidden;
+}
+
+.certificate::before, .certificate::after {
+    content: '';
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.05;
+    z-index: 0;
+}
+
+.certificate::before {
+    top: -50px;
+    left: -50px;
+    transform: rotate(-30deg);
+}
+
+.certificate::after {
+    bottom: -50px;
+    right: -50px;
+    transform: rotate(30deg);
+}
+
+.certificate-header {
+    position: relative;
+    z-index: 1;
+    border-bottom: 2px solid #4e73df;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.certificate-header h2 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+    color: #4e73df;
+}
+
+.certificate-body {
+    position: relative;
+    z-index: 1;
+    padding: 20px 0;
+}
+
+.certificate-body h3 {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 15px 0;
+    color: #333;
+}
+
+.certificate-body h4 {
+    font-size: 22px;
+    color: #4e73df;
+    margin: 15px 0;
+}
+
+.certificate-body p {
+    margin: 10px 0;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Animación de confeti cuando se completa hackathon */
+@keyframes confetti-slow {
+    0% { transform: translate3d(0, 0, 0) rotateX(0) rotateY(0); }
+    100% { transform: translate3d(25px, 105vh, 0) rotateX(360deg) rotateY(180deg); }
+}
+
+@keyframes confetti-medium {
+    0% { transform: translate3d(0, 0, 0) rotateX(0) rotateY(0); }
+    100% { transform: translate3d(100px, 105vh, 0) rotateX(100deg) rotateY(360deg); }
+}
+
+@keyframes confetti-fast {
+    0% { transform: translate3d(0, 0, 0) rotateX(0) rotateY(0); }
+    100% { transform: translate3d(-50px, 105vh, 0) rotateX(10deg) rotateY(250deg); }
+}
+
+.confetti {
+    position: absolute;
+    top: -10px;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    width: 10px;
+    height: 20px;
+}
+
+.confetti--animation-slow {
+    animation: confetti-slow 5s linear infinite;
+}
+
+.confetti--animation-medium {
+    animation: confetti-medium 4s linear infinite;
+}
+
+.confetti--animation-fast {
+    animation: confetti-fast 3s linear infinite;
+} 

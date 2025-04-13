@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+<g id="accessory-crown">
+  <!-- Corona -->
+  <path d="M160,120 L180,140 L200,110 L220,140 L240,120 L230,160 L170,160 Z" fill="none" stroke="#333" stroke-width="2" />
+  <circle cx="160" cy="120" r="5" fill="#FDCC26" stroke="#333" stroke-width="1" />
+  <circle cx="200" cy="110" r="5" fill="#FDCC26" stroke="#333" stroke-width="1" />
+  <circle cx="240" cy="120" r="5" fill="#FDCC26" stroke="#333" stroke-width="1" />
+</g> 
+</svg> 

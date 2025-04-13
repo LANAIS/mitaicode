@@ -1,0 +1,12 @@
+<g id="mouth-pixel-smile">
+  <!-- Boca sonriente pixelada -->
+  <rect x="160" y="230" width="10" height="10" fill="#333" />
+  <rect x="170" y="240" width="60" height="10" fill="#333" />
+  <rect x="230" y="230" width="10" height="10" fill="#333" />
+  <rect x="170" y="230" width="10" height="10" fill="white" />
+  <rect x="220" y="230" width="10" height="10" fill="white" />
+  
+  <!-- Mejillas pixeladas -->
+  <rect x="140" y="220" width="10" height="10" fill="#FFAAAA" opacity="0.5" />
+  <rect x="250" y="220" width="10" height="10" fill="#FFAAAA" opacity="0.5" />
+</g> 

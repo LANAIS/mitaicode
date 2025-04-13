@@ -1,0 +1,10 @@
+<g id="hair-short-pixel">
+  <!-- Pelo corto estilo pixel -->
+  <rect x="110" y="80" width="180" height="40" fill="{{hair_color}}" stroke="#333" stroke-width="1" />
+  <rect x="100" y="90" width="10" height="30" fill="{{hair_color}}" stroke="#333" stroke-width="1" />
+  <rect x="290" y="90" width="10" height="30" fill="{{hair_color}}" stroke="#333" stroke-width="1" />
+  <rect x="120" y="70" width="160" height="10" fill="{{hair_color}}" stroke="#333" stroke-width="1" />
+  <!-- Detalles pixelados -->
+  <rect x="150" y="120" width="10" height="10" fill="#333" opacity="0.5" />
+  <rect x="240" y="120" width="10" height="10" fill="#333" opacity="0.5" />
+</g> 

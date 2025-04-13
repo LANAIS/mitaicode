@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+<g id="accessory-headphones">
+  <!-- Auriculares -->
+  <path d="M140,160 L140,190 C140,200 150,210 160,210 L180,210 C180,210 180,180 180,170" fill="none" stroke="#333" stroke-width="3" />
+  <path d="M260,160 L260,190 C260,200 250,210 240,210 L220,210 C220,210 220,180 220,170" fill="none" stroke="#333" stroke-width="3" />
+  <path d="M140,170 C140,120 160,100 200,100 C240,100 260,120 260,170" fill="none" stroke="#333" stroke-width="3" />
+</g>
+</svg> 

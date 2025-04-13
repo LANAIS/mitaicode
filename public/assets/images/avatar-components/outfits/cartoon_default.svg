@@ -1,0 +1,12 @@
+<g id="outfit-classic">
+  <!-- Atuendo tipo semilla/planta -->
+  <path d="M130,290 C160,340 240,340 270,290" fill="#4CAF50" stroke="#333" stroke-width="2" />
+  
+  <!-- Detalles tipo hojas -->
+  <path d="M130,310 C100,340 120,370 150,350" fill="#81C784" stroke="#333" stroke-width="1.5" />
+  <path d="M270,310 C300,340 280,370 250,350" fill="#81C784" stroke="#333" stroke-width="1.5" />
+  
+  <!-- Detalle central tipo tallo -->
+  <path d="M200,290 L200,350" stroke="#2E7D32" stroke-width="4" />
+  <path d="M190,350 C200,360 210,360 220,350" fill="#2E7D32" stroke="#333" stroke-width="1.5" />
+</g> 

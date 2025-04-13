@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+<g id="accessory-scarf">
+  <!-- Bufanda -->
+  <path d="M160,180 C160,190 180,195 200,195 C220,195 240,190 240,180" fill="none" stroke="#333" stroke-width="3" />
+  <path d="M170,195 L170,240 L190,240" fill="none" stroke="#333" stroke-width="3" />
+  <path d="M170,215 L190,215" fill="none" stroke="#333" stroke-width="3" />
+</g>
+</svg> 

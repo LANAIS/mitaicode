@@ -1,0 +1,8 @@
+<g id="mouth-smile">
+  <!-- Boca sonriente -->
+  <path d="M160,230 C180,250 220,250 240,230" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" />
+  
+  <!-- Detalle de mejillas -->
+  <circle cx="140" cy="220" r="10" fill="#FFAAAA" opacity="0.5" />
+  <circle cx="260" cy="220" r="10" fill="#FFAAAA" opacity="0.5" />
+</g> 

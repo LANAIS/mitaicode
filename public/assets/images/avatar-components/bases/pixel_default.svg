@@ -1,0 +1,9 @@
+<g id="base">
+  <!-- Cabeza cuadrada estilo pixel art -->
+  <rect x="120" y="100" width="160" height="180" fill="{{skin_color}}" stroke="#333" stroke-width="2" />
+  <!-- Bordes pixelados -->
+  <rect x="110" y="110" width="10" height="160" fill="{{skin_color}}" stroke="#333" stroke-width="1" />
+  <rect x="280" y="110" width="10" height="160" fill="{{skin_color}}" stroke="#333" stroke-width="1" />
+  <rect x="120" y="90" width="160" height="10" fill="{{skin_color}}" stroke="#333" stroke-width="1" />
+  <rect x="120" y="280" width="160" height="10" fill="{{skin_color}}" stroke="#333" stroke-width="1" />
+</g> 
